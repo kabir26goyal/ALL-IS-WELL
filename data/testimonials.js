@@ -1,26 +1,26 @@
 export const testimonial = [
-    {
-      quote:
-        "The AI-powered interview prep was a game-changer. Landed my dream job at a top tech company!",
-      author: "Sarah Chen",
-      image: "https://randomuser.me/api/portraits/women/75.jpg",
-      role: "Software Engineer",
-      company: "Tech Giant Co.",
-    },
-    {
-      quote:
-        "The industry insights helped me pivot my career successfully. The salary data was spot-on!",
-      author: "Michael Rodriguez",
-      image: "https://randomuser.me/api/portraits/men/75.jpg",
-      role: "Product Manager",
-      company: "StartUp Inc.",
-    },
-    {
-      quote:
-        "My resume's ATS score improved significantly. Got more interviews in two weeks than in six months!",
-      author: "Priya Patel",
-      image: "https://randomuser.me/api/portraits/women/74.jpg",
-      role: "Marketing Director",
-      company: "Global Corp",
-    },
-  ];
+  {
+    quote:
+      "The AI-powered interview prep made me super confident. Feeling ready to ace my placements!",
+    author: "Rachit Bansal",
+    image: "https://randomuser.me/api/portraits/men/32.jpg",
+    role: "Third Year Student at Thapar University",
+    company: "",
+  },
+  {
+    quote:
+      "Loved the real-world insights and tips. It’s helped me build a much stronger resume!",
+    author: "Khushi",
+    image: "https://randomuser.me/api/portraits/women/45.jpg",
+    role: "Third Year Student at Thapar University",
+    company: "",
+  },
+  {
+    quote:
+      "The mock interviews felt real and boosted my confidence. A must for all students!",
+    author: "Jasdeep",
+    image: "https://randomuser.me/api/portraits/men/47.jpg",
+    role: "Third Year Student at Thapar University",
+    company: "",
+  },
+];
